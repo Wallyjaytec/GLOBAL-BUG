@@ -1,9 +1,9 @@
-global.namaown = "Qasim Ali" // your owner name here
-global.namabot = "© GlobalTechInfo" // your bot name here
+global.namaown = "WALLY JAY TECH" // your owner name here
+global.namabot = "© wallyjaytech" // your bot name here
 global.versisc = "9.5.0" //
-global.owner = ["923444844060"] // your owner number here
-global.tele = "https://t.me/GlobalBotInc" // your telegram here
-global.url = "https://www.youtube.com/@GlobalTechInfo" // Your YouTube Here
+global.owner = ["2348144317152"] // your owner number here
+global.tele = "https://t.me/svenanjafrieda" // your telegram here
+global.url = "https://www.youtube.com/@wallyjaytechy" // Your YouTube Here
 global.namastore = "LynnZxD" // UBAH NAMA STORE LU
 global.simbol = "✪" // You Can Change Simbol
 global.wlcm = []
@@ -17,10 +17,10 @@ global.limitawal = {
 global.painlogo = "http://telegra.ph/file/9a332c815ad31956d5ce6.jpg" 
 
 global.my = {
-      saluran: "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07",
-      idCH: "120363319098372999@newsletter",
-      youtube: "https://www.youtube.com/@GlobalTechInfo",
-      telegram: "https://t.me/GlobalBotInc",
+      saluran: "https://wa.me/2348144317152",
+      idCH: "",
+      youtube: "https://www.youtube.com/@wallyjaytechy",
+      telegram: "https://t.me/svenanjafrieda",
       Instagram: "https://www.instagram.com/"
    }
 
